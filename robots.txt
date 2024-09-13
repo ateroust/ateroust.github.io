@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ateroust.github.io/sitemap.html.gz
+Sitemap: https://ateroust.github.io/app/sitemap.html.gz
+Sitemap: https://ateroust.github.io/assets/sitemap.html.gz
+Sitemap: https://ateroust.github.io/css/sitemap.html.gz
+Sitemap: https://ateroust.github.io/includes/sitemap.html.gz
+Sitemap: https://ateroust.github.io/item/sitemap.html.gz
+Sitemap: https://ateroust.github.io/src/sitemap.html.gz
